@@ -1,15 +1,51 @@
 # DATA ANALYST (Project 1)
 
-## Pizza Sales Analysis
+## 🍕 Pizza Sales Analysis Project 
 
-### Description (Comprehensive Data Analysis Project Using Excel, SQL Server, and Power BI)
-* In my recent data analysis project, I utilized Excel to organize and clean the raw data.
-* I then imported this data into SQL Server Management Studio to perform complex queries and data manipulation.
-* Finally, I used Power BI to create interactive dashboards and visualizations, providing insightful reports on the data trends and patterns. This comprehensive approach allowed me to effectively analyze and present the data, making it easier to derive actionable insights.
-* This repository contains SQL queries for analyzing pizza sales data from the Pizzadetails database. The queries cover various aspects of sales, including total revenue, order counts, average orders, quantities, and percentages of different categories and sizes.
+### Description 
+
+This project showcases a complete data analysis workflow using a real-world Pizza Sales dataset.
+The goal is to derive actionable insights related to sales performance, customer behavior, and business trends using SQL, Power BI, and Excel.
 
 ### Database
-The analysis is performed on the Pizzadetails database, specifically the pizza_sales table.
+The analysis is performed on the Pizzadetails database, specifically the pizza_sales table. 
+
+### 📌 Project Overview
+The Pizza Sales dataset simulates transactional data from a pizza restaurant. 
+Through this project, I analyzed various aspects of the business, such as:
+
+* Best-selling pizza types and categories
+* Sales trends by time, day, and month
+* Revenue patterns and peak business hours
+* Order frequency and average order value
+
+### 🧰 Tools & Technologies
+
+* SQL (MySQL: For data extraction, cleaning, and advanced querying.
+* Power BI: Developed interactive dashboards and visualizations.
+* CSV : Structured data containing orders, pizza types, prices, and timestamps.
+
+### 📊 Key Highlights
+
+* Data pre-processed and cleaned using Excel and SQL.
+* SQL queries written to extract KPIs such as:
+       1. Total price
+       2. Total orders
+       3. Total quantity
+       4. Average order in month bases
+       5. TOP 5 best selling pizzas
+       6. percentage of pizza category
+       7. Total revenue
+
+* Created Power BI dashboard with filters, charts, and visual storytelling.
+
+### 📌 Key Insights
+
+* Peak sales occur during weekends and evening hours.
+* Certain pizza sizes and types significantly outperform others.
+* Revenue can be increased by promoting high-margin pizzas.
+
+### 🟢 Completed – Ready for review
 
 
 
