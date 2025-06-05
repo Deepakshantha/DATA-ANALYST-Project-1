@@ -29,13 +29,13 @@ Through this project, I analyzed various aspects of the business, such as:
 
 * Data pre-processed and cleaned using Excel and SQL.
 * SQL queries written to extract KPIs such as:
-       1. Total price
-       2. Total orders
-       3. Total quantity
-       4. Average order in month bases
-       5. TOP 5 best selling pizzas
-       6. percentage of pizza category
-       7. Total revenue
+       * Total price
+       * Total orders
+       * Total quantity
+       * Average order in month bases
+       * TOP 5 best selling pizzas
+       * percentage of pizza category
+       * Total revenue
 
 * Created Power BI dashboard with filters, charts, and visual storytelling.
 
